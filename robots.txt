@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://serie-tv-consigliate.pages.dev/sitemap.xml
